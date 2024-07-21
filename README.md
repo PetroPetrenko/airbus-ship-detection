@@ -25,7 +25,7 @@ DA
 The exploratory data analysis is documented in the Jupyter notebook located in the notebooks/ directory.
 text
 
-### 5. `notebooks/EDA.ipynb`
+###  `notebooks/EDA.ipynb`
 
 In this Jupyter Notebook, you can perform exploratory data analysis by visualizing images and their corresponding masks, analyzing the distribution of ship sizes, and understanding the dataset better.
 
