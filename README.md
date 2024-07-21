@@ -36,6 +36,9 @@ This structure and code provide a solid foundation for participating in the Airb
 
 ### Project Structure
 
+
+
+
 airbus-ship-detection/
 ├── data/
 │   ├── train/
